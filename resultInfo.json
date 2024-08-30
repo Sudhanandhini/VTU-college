@@ -1,0 +1,225 @@
+{
+    "resultInfo":[
+        {
+            "_id":1,
+            "studentId":1,
+            "regsiterId": "95JC24ECE109",
+            "code":"ECE01",
+            "subject":"SIGNAL & SYSTEM",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"75",
+            "result":"PASS"
+        },
+        {
+            "_id":2,
+            "studentId":1,
+            "regsiterId": "95JC24ECE109",
+            "code":"ECE02",
+            "subject":"DIGITAL SIGNAL",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"85",
+            "result":"PASS"
+        },
+        {
+            "_id":3,
+            "studentId":1,
+            "regsiterId": "95JC24ECE109",
+            "code":"ECE03",
+            "subject":"SYSTEM TRANSFORMATION",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"65",
+            "result":"PASS"
+        },
+        {
+            "_id":4,
+            "studentId":1,
+            "regsiterId": "95JC24ECE109",
+            "code":"ECE04",
+            "subject":"SIGNAL COMMUNICATION",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"75",
+            "result":"PASS"
+        },
+        {
+            "_id":5,
+            "studentId":2,
+            "regsiterId": "95JC24CSE107",
+            "code":"CSE01",
+            "subject":"HTML",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"75",
+            "result":"PASS"
+        },
+        {
+            "_id":6,
+            "studentId":2,
+            "regsiterId": "95JC24CSE107",
+            "code":"ECE02",
+            "subject":"CSS",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"85",
+            "result":"PASS"
+        },
+        {
+            "_id":7,
+            "studentId":2,
+            "regsiterId": "95JC24CSE107",
+            "code":"ECE03",
+            "subject":"REACT",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"65",
+            "result":"PASS"
+        },
+        {
+            "_id":8,
+            "studentId":2,
+            "regsiterId": "95JC24CSE107",
+            "code":"ECE04",
+            "subject":"NODE JS",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"75",
+            "result":"PASS"
+        },
+        {
+            "_id":9,
+            "studentId":3,
+            "regsiterId": "95JC24CIV108",
+            "code":"CIV01",
+            "subject":"SIGNAL & SYSTEM",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"75",
+            "result":"PASS"
+        },
+        {
+            "_id":10,
+            "studentId":3,
+            "regsiterId": "95JC24CIV108",
+            "code":"CIV02",
+            "subject":"DIGITAL SIGNAL",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"85",
+            "result":"PASS"
+        },
+        {
+            "_id":11,
+            "studentId":3,
+            "regsiterId": "95JC24CIV108",
+            "code":"CIV03",
+            "subject":"SYSTEM TRANSFORMATION",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"65",
+            "result":"PASS"
+        },
+        {
+            "_id":12,
+            "studentId":3,
+            "regsiterId": "95JC24CIV108",
+            "code":"CIV04",
+            "subject":"SIGNAL COMMUNICATION",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"75",
+            "result":"PASS"
+        },
+        {
+            "_id":13,
+            "studentId":4,
+            "regsiterId": "95JC24CSE106",
+            "code":"CSE01",
+            "subject":"CLOUD COMPUTING",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"75",
+            "result":"PASS"
+        },
+        {
+            "_id":14,
+            "studentId":4,
+            "regsiterId": "95JC24CSE106",
+            "code":"CSE02",
+            "subject":"PYTHON",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"85",
+            "result":"PASS"
+        },
+        {
+            "_id":15,
+            "studentId":4,
+            "regsiterId": "95JC24CSE106",
+            "code":"CSE03",
+            "subject":"JAVA",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"65",
+            "result":"PASS"
+        },
+        {
+            "_id":16,
+            "studentId":4,
+            "regsiterId": "95JC24CSE106",
+            "code":"CSE04",
+            "subject":"C",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"75",
+            "result":"PASS"
+        },
+        {
+            "_id":17,
+            "studentId":5,
+            "regsiterId": "95JC24ECE105",
+            "code":"ECE01",
+            "subject":"SIGNAL & SYSTEM",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"75",
+            "result":"PASS"
+        },
+        {
+            "_id":18,
+            "studentId":5,
+            "regsiterId": "95JC24ECE105",
+            "code":"ECE02",
+            "subject":"DIGITAL SIGNAL",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"85",
+            "result":"PASS"
+        },
+        {
+            "_id":19,
+            "studentId":5,
+            "regsiterId": "95JC24ECE105",
+            "code":"ECE03",
+            "subject":"SYSTEM TRANSFORMATION",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"65",
+            "result":"PASS"
+        },
+        {
+            "_id":20,
+            "studentId":5,
+            "regsiterId": "95JC24ECE105",
+            "code":"ECE04",
+            "subject":"SIGNAL COMMUNICATION",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"75",
+            "result":"PASS"
+        }
+    ]
+
+}

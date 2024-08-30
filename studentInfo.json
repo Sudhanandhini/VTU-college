@@ -1,0 +1,42 @@
+{
+    "studentInfo":[
+        {
+            "_id": 1,
+            "regsiterId": "95JC24ECE109",
+            "name":"SudhaNandhini",
+            "fatherName":"Subramanian",
+            "collegeName": "JACSI College"            
+        },
+        {
+            
+            "_id": 2,
+            "regsiterId": "95JC24CSE107",
+            "name":"Nandhini",
+            "fatherName":"Ravi",
+            "collegeName": "JACSI College"            
+        },
+        {
+            "_id": 3,
+            "regsiterId": "95JC24CIV108",
+            "name":"Hariharan",
+            "fatherName":"Vellu",
+            "collegeName": "JACSI College"            
+        },
+        {
+            "_id": 4,
+            "regsiterId": "95JC24CSE106",
+            "name":"Mangai",
+            "fatherName":"Subramanian",
+            "collegeName": "JACSI College"            
+        },
+        {
+            "_id": 5,
+            "regsiterId": "95JC24ECE105",
+            "name":"Raja",
+            "motherName":"Kalaivani",
+            "collegeName": "JACSI College"            
+        }
+        
+
+    ]
+}
